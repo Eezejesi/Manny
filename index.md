@@ -1,21 +1,10 @@
 # My Details #
+Name :Ezejesi Emmanuel 
 
-**Name**
+Email Address :Emmanuelbenjamin117@yahoo.com
 
-Ezejesi Emmanuel 
+Slack username: Manny
 
-**Email Address**
+Tracks: Backend
 
-Emmanuelbenjamin117@yahoo.com
-
-**Slack username**
-
-Manny
-
-**Tracks**
-
-Backend
-
-**Courses**
-
-Phython
+Course :Python
